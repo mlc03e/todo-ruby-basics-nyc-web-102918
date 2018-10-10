@@ -7,8 +7,8 @@ def assign_variable(value)
   return value
 end
 
-def argue
-  
+def argue(number)
+  return number
 end
 
 def greeting
